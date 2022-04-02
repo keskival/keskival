@@ -23,7 +23,7 @@ jobs:
 
           # Options
           user: keskival
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Zurich
           plugin_achievements: yes
